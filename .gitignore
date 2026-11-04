@@ -50,6 +50,7 @@ coverage.xml
 *.lcov
 .hypothesis/
 .pytest_cache/
+pytest-cache-files-*/
 cover/
 
 # Translations
@@ -204,6 +205,9 @@ cython_debug/
 # .vscode/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
+data/
+.tmp/
+report.xml
 
 # Ruff stuff:
 .ruff_cache/
