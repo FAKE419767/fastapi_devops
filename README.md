@@ -125,3 +125,7 @@ python -m poetry run alembic upgrade head
 ```
 
 Перед применением проверяйте сгенерированную миграцию.
+
+
+Stop-Service Jenkins
+be800dc07f0242818cfa1cfe31af7315
